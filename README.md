@@ -13,7 +13,7 @@ Soy un **Desarrollador Web Full Stack** apasionado por crear experiencias digita
 
 #### Frontend
 [![HTML5](https://shields.io)](https://shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-f06529?logo=html5&logoColor=white&labelColor=f06529)
-![CSS3](https://shields.io)
+https://img.shields.io/badge/CSS-CSS3-blue?logo=css3
 ![JavaScript](https://shields.io)
 ![React](https://shields.io)
 ![TailwindCSS](https://shields.io)
